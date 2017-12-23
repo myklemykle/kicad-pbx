@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../kicad libs/library-kicad
+LibDir=./submodules/library-kicad
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,4 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=ad75019
-LibName31=/Users/mykle/Documents/kicad libs/library-kicad/trs_jack
+LibName31=/Users/mykle/Documents/kicad pbx/submodules/library-kicad/trs_jack
